@@ -4,13 +4,6 @@
     "href": "index.html",
     "title": "Chicago CTA Ridership Forecast",
     "section": "",
-    "text": "An R app running in the browser, deployed via Github Pages\nLoading\n  webR...\n\n\n  \n\n\nThis may load slowly initially. R is literally loading packages and running a session in your browser.\nIt’s free and it does not require an always-on server."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "An R app running in the browser, deployed via Github Pages\nLoading\n  webR...\n\n\n  \n\n\nDownsides: slow to load\nUpsides: Free, no server required"
   }
 ]
