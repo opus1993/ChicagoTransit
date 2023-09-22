@@ -15,7 +15,6 @@ webr::install("modeldata")
 fit = lm(ridership ~ Clark_Lake, data = modeldata::Chicago)
 summary(fit)
 ```
-
 Downsides: slow to load
 
 Upsides: Free, no server required
