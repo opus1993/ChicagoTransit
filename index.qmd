@@ -6,8 +6,7 @@ filters:
   - webr
 ---
 
-A shinylive app running in the browser, deployed on Github Pages
-
+An R app running in the browser, deployed via Github Pages
 
 ```{webr-r}
 
@@ -16,3 +15,7 @@ webr::install("modeldata")
 fit = lm(ridership ~ Clark_Lake, data = modeldata::Chicago)
 summary(fit)
 ```
+
+This may load slowly initially. R is literally loading packages and running a session in your browser.
+
+It's free and it does not require an always-on server.
