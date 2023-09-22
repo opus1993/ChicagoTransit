@@ -1,9 +1,6 @@
 ---
 title: "Chicago CTA Ridership Forecast"
 format: html
-project:
-  type: website
-  output-dir: docs
 engine: knitr
 filters:
   - webr
