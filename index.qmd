@@ -15,7 +15,6 @@ webr::install("modeldata")
 fit = lm(ridership ~ Clark_Lake, data = modeldata::Chicago)
 summary(fit)
 ```
+Downsides: slow to load
 
-This may load slowly initially. R is literally loading packages and running a session in your browser.
-
-It's free and it does not require an always-on server.
+Upsides: Free, no server required

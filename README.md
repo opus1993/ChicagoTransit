@@ -1,5 +1,5 @@
 # ChicagoTransit
 
-Demonstration of R running in your browser
+Demonstration of an R App running in the browser within Quarto
 
 https://opus1993.github.io/ChicagoTransit/
